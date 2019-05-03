@@ -1,10 +1,10 @@
 === Remove Disqus Ads ===
-Contributors: RedAtom
-Donate link: http://mowshon.ru/
+Contributors: Mowshon
+Donate link: https://github.com/mowshon/remove-disqus-ads
 Tags: disqus, adblock, ads, remove ads
 Requires at least: 4.0
 Tested up to: 5.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,12 +30,16 @@ This plugin saves your page with comments from Disqus annoying ads.
 
 == Changelog ==
 
-= 1.0 =
-* 2012-12-13
+= 1.0.0 =
+* 2019-05-03
 * Initial release
+
+= 1.0.1 =
+* 2019-05-03
+* Change author
 
 == Upgrade Notice ==
 
-= 1.0 =
-* 2012-12-13
+= 1.0.0 =
+* 2019-05-03
 * Initial release

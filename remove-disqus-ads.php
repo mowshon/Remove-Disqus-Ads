@@ -1,17 +1,17 @@
 <?php
 /*
  * Plugin Name: Remove Disqus Ads
- * Version: 1.0
- * Plugin URI: http://mowshon.ru/
+ * Version: 1.0.1
+ * Plugin URI: https://github.com/mowshon/remove-disqus-ads
  * Description: Remove annoying ads from Disqus Comments.
- * Author: RedAtom
- * Author URI: http://mowshon.ru/
+ * Author: Mowshon
+ * Author URI: https://github.com/mowshon
  * Requires at least: 4.0
  * Tested up to: 5.1
  *
  * @package WordPress
- * @author RedAtom
- * @since 1.0.0
+ * @author Mowshon
+ * @since 1.0.1
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
