@@ -7,4 +7,4 @@ When your site’s audience grows, Disqus starts displaying its annoying ads on 
 ![Settings](http://mowshon.ru/github/disqus.jpg)
 
 ### Second step:
-Install this plugin.
+Install this plugin: https://wordpress.org/plugins/remove-disqus-ads/
